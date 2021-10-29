@@ -81,13 +81,3 @@ class Node {
         this.key = Integer.MAX_VALUE;
     }
 }
-
-class Pair {
-    int first;
-    int second;
-
-    Pair (int f, int s) {
-        first = f;
-        second = s;
-    }
-}
